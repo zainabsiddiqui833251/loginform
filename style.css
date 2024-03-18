@@ -1,0 +1,45 @@
+/* h1{
+    text-transform: capitalize;
+    text-align: center;
+    text-decoration: underline;
+} */
+body{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.child {
+    display: inline-block;
+    text-align: center;
+    overflow:hidden ;
+}
+.inp1{
+    width: 90%;
+    height: 30px;
+    border-radius: 5px;
+    padding: 1%;
+}
+input:hover{
+    background-color: skyblue;
+}
+.child2{
+    width: 28%;
+   box-shadow: 10px 10px 10px 10px #c5c5c5;
+}
+span{
+    color: blue;
+}
+#birth{
+    width: 31%;
+    height: 30px;
+}
+label{
+    width: 30%;
+    border: solid;
+    border:1px solid black;    
+    font-size: 25PX;
+    padding: 1%;
+}
+#gender{
+ 
+    width: 7%;
+    padding: 1%;
+}
